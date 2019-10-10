@@ -1,0 +1,34 @@
+{
+  "name": "docgenerator",
+  "version": "1.0.0",
+  "description": "Generates documentation based on query",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start",
+    "prod": "npm run build && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozonep/docgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozonep/docgenerator/issues"
+  },
+  "homepage": "https://github.com/ozonep/docgenerator#readme",
+  "dependencies": {
+    "core-js": "^3.2.1",
+    "express": "^4.17.1",
+    "mobx": "^4.14.0",
+    "next": "latest",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "redoc": "^2.0.0-rc.16",
+    "styled-components": "^4.4.0"
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.3"
+  }
+}
