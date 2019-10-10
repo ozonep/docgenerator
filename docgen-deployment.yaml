@@ -27,7 +27,7 @@ spec:
                 configMapKeyRef:
                   key: PORT
                   name: docgen-env
-          image: gcr.io/testproject-252007/github.com/ozonep/answer-collector:latest
+          image: gcr.io/testproject-252007/docgenerator:latest
           name: docgen
           ports:
             - containerPort: 8000
