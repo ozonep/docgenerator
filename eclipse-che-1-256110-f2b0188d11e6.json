@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eclipse-che-1-256110",
+  "private_key_id": "f2b0188d11e620d6c2222a03d71ab6529331940e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCP5ZFxNjpZLKum\ntwO+/kua0p24tASF4SPDrmi1lFfAtWJXmXjS4IZWQMTrCjZqG8P4s6jWK6DPe63r\nUmFZbtwkY3ejfmqxt/DC0j02YRdwwmm9Hg8+W+Sh5Shyqk+ZhliL+YDFg80zkgpY\nbRuqCz7QmKZX07sIrkc8ebw2Y10PE0jkSlFz3/SRfeyyFWQiYyMMeSAHuJGluO5r\nIvIfeioNKsWfNB89CEZM/NE5UbV/O8mdaBc4vpHH2BcGGuadwNiFSHMUr9tyH1bC\nI9gbN3uoagTaoQ2EPrWFr+/fY2rR7HKxN7BsZu9FRSUg6G/rAuBYloC9e2K0TcCx\nDQsISG3vAgMBAAECggEAKyru5Vwjx/G3MuXPaWInMzSA3VKf0rv2OzNctTBh3O1t\nKaNgVD7H/iMjD/G53j4jHb5j5ZAkB2pug9xsWOSBhScT0ofPoS3xu7hPZbtdyVWB\nXBsi7o2puomhBzkhdQiRErjQUTCXhCOJF/rvZCVIfFJ3AH0DrHh/5VwNwvEvDyDC\nKkigyPn4Zi6syrKL8V2o4AJXUBkW98CTDayg6oYpvQtHTG3qxzpYdWRXA8Wl8gUj\nZN7w7DQwpGSfdZ/sF7te5NZfyqcO1ji91kJU7sb0oX7Z+Sxz3IOTKm+U4xF2oOjb\n4tn6a3L5K1BSYuCCxe31pXKK/lz4uKGj0T0vKOBnWQKBgQDH4ZU7hLb8q3RrfvzL\nDOS+4f8DjGmxZj7fz1N3Xp+bgZ6xJPMh8L9qksFAsK/lMZNAhdxjwU7BZsKPDqJE\nu0YBaZS60CoLF0tFO1bHRcy9G/aBETVPkl27XLzd28rxNqzIdLEyae49m2dyqo+q\nQnDxOsb/Fm4ASYH37R1fDfkT9wKBgQC4TB26cnRL8NtMxaZgK5Aiw/39lw6kccUc\n4gl7AwM31C9Oo8nEI+lJu4mTJkTi4dYrOSYMbKJlbGOxGM59ftLoCGhq4Hbsqlce\nLS58kyQw6bpFgBgJKvNpogQNVmlMGX6IfwaJmxeljodJdUYcaxuVvBrTz1pTGmSZ\niH0Z3jQHyQKBgF11QaTBqhm8RUQZ7TM3xSDnZKiRF75F03Isa5dt2+0HD18+qpwd\nCDNZiRipRKVCp9pMfL773MobNS9UpVTDx7jTWCJ9QJtM+fnWA/5Kya9GitzQYf/h\nrQf1Fa4aneppKSLVRSEQXL/bkOQRkfkG9e4lEHSnVSm3NRjqeog+bU8DAoGAeu8r\nFWerc8yiPD/Lj3L/nnEmR7YvqjnJxk5xDIEh8Ge1druCpzddMjXKu0FXyg/jEMn6\nO2drnEQE6+kkNEoY3XZeUIySR6QIoLR6wdZU2dvOyPV9EwB3hgrwsQTnEEAhS2OQ\nNNIjn+fHDpUPw30e1W64Znl2QuDkIhYNfOffxSECgYAwZOY/Wl1b8fTcSOXPTzv0\nNrn4y/e6dj39z2Q5bKkSiHF8U5Od2GnL9/jFOgTk4fFdS1Rp/BC0OnKfRs66DI6V\njzVRXq/cG7Yk3xXYusmgoMza1YrKAt2VpSANDj1VcIRRhTimMtd4iBaIqEud6qWR\nrOD0WdfyIU1ybWtSFsq3/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dns01-solver@eclipse-che-1-256110.iam.gserviceaccount.com",
+  "client_id": "102514543344702476128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dns01-solver%40eclipse-che-1-256110.iam.gserviceaccount.com"
+}
