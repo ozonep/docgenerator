@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ozonep/docgenerator#readme",
   "dependencies": {
     "core-js": "^3.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mobx": "^4.14.0",
     "next": "latest",
     "react": "^16.10.2",
